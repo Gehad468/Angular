@@ -1,0 +1,25 @@
+.bg-image {
+    background-image: url("https://headshotphotos.ca/wp-content/uploads/Capture0089-Edit-Edit.jpg");
+    background-size: cover; 
+    background-position: center;
+    height: 500px; 
+    display: flex;
+    align-items: flex-end; 
+    padding-bottom: 100px; 
+ }
+ 
+ .banner-content {
+    position: relative; 
+    z-index: 1;
+ }
+ 
+ .title, .text {
+    color: antiquewhite;
+    text-align: start;
+    margin-bottom: 20px; 
+ }
+ 
+ .btn {
+    margin-top: 20px; 
+ }
+ 
